@@ -26,3 +26,6 @@ timer/
 uart/
 usb/
 watchdog/
+example_auto_set_url.cmake/
+pico_extras_import_optional.cmake/
+pico_sdk_import_cmake/
